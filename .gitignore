@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+history/
+History/
+test/
+Test/
+
+*.exe
+*.spec
+
+_test_*
+*_slide.pdf
+*_slide_*.pdf
+*_split_images/
