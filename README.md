@@ -17,7 +17,7 @@
 
 ## GitHub 下載
 
-請到 GitHub 專案頁的 **Releases** 下載最新版本。
+請到 GitHub 專案頁的 [Releases](https://github.com/taoyutsun/split-pdf-handout-to-image-slide/releases) 下載最新版本。
 
 一般使用者建議下載：
 
