@@ -4,7 +4,10 @@
 
 這個工具適合處理由 PowerPoint、Keynote 或其他簡報軟體匯出的 handout PDF，例如 2x2、3x2、3x3 等多格講義。轉換後會輸出新的單頁投影片 PDF，方便在電腦、平板或手機上閱讀。
 
-原始介紹文章：[讓多格講義 PDF 瞬間變身好閱讀的逐頁投影片](https://taoyutsun.blogspot.com/2025/03/split-pdf-handout-to-image-slide.html)
+相關介紹文章：
+
+- 2025 原始版本介紹：[讓多格講義 PDF 瞬間變身好閱讀的逐頁投影片](https://taoyutsun.blogspot.com/2025/03/split-pdf-handout-to-image-slide.html)
+- 2026 升級版與 GitHub 發布：[多格講義 PDF 轉單頁投影片工具升級版：Split PDF Handout to Image Slide 正式開源上架 GitHub](https://taoyutsun.blogspot.com/2026/04/split-pdf-handout-to-image-slide-github-release.html)
 
 ## 功能特色
 
