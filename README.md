@@ -1,5 +1,7 @@
 # Split PDF Handout to Image Slide
 
+[繁體中文](README.md) | [English](README.en.md)
+
 將「一頁多格」的 PDF 講義拆成適合逐頁閱讀的單張投影片 PDF。
 
 這個工具適合處理由 PowerPoint、Keynote 或其他簡報軟體匯出的 handout PDF，例如 2x2、3x2、3x3 等多格講義。轉換後會輸出新的單頁投影片 PDF，方便在電腦、平板或手機上閱讀。
